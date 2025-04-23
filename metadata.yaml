@@ -1,0 +1,34 @@
+_repo: The-magic-lantern-and-its-management-b-including-full-practical-directions-for-producing-the-__75890
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hepworth, Thomas Cradock
+    alias: Hepworth, T. C. (Thomas Cradock)
+    deathdate: 1905
+    gutenberg_agent_id: '58200'
+    url: http://www.gutenberg.org/2009/agents/58200
+description: ''
+gutenberg_issued: '2025-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75890'
+language: en
+pgterms:marc904: https://archive.org/details/1885Magic_lantern_management-BP5-4
+pgterms:marc905: 20240125072804hepworth
+pgterms:marc906: '1885'
+pgterms:marc907: GB
+production_note: Alan, deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bChatto and Windus, $c1885.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lantern projection'
+- !lcsh 'Lantern slides'
+- !lcc 'Q'
+- !lcc 'TR'
+- GITenberg
+title: 'The magic lantern and its management : $b including full practical directions
+  for producing the lime light, making oxygen gas, and preparing lantern slides'
+url: http://www.gutenberg.org/ebooks/75890
