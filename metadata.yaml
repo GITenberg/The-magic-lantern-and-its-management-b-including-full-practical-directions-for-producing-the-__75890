@@ -1,5 +1,8 @@
 _repo: The-magic-lantern-and-its-management-b-including-full-practical-directions-for-producing-the-__75890
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75890-h/images/cover.jpg
 creator:
   author:
     agent_name: Hepworth, Thomas Cradock
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '58200'
     url: http://www.gutenberg.org/2009/agents/58200
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75890#The-magic-lantern-and-its-management-b-including-full-practical-directions-for-producing-the-_
 gutenberg_issued: '2025-04-17'
 gutenberg_type: Text
 identifiers:
